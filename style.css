@@ -1,0 +1,27 @@
+body {
+background-color: aquamarine;
+calor: black
+    font-family: "SUSE", sans-serif;
+    font-weght:bold;
+    font-size:26px;
+    display:flex;
+    justify-content:center;
+    aling-intems: center;
+    height:700px;
+    margin: 0;
+}
+
+button {
+    backgroubd-color: rgb (145,108,108),
+    color:white;
+    font-family: reddit sans"condensed", sans-serif
+
+    passo.{
+        display:nome;
+    }
+    .passo.ativo{
+display;block
+    }
+    main[ text-aling:center:
+    max-width:90%;
+    ]
